@@ -17,4 +17,4 @@ package() {
     cp -rT ${pkgdir}/usr/sbin ${pkgdir}/usr/bin
     rm -rf ${pkgdir}/usr/sbin
 }
-md5sums=('cd2fe6a0f01fcc7167509c8013bdaa95')
+md5sums=('2c0633841563a0008e224014a7c01478')
